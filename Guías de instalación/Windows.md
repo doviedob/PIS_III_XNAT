@@ -37,10 +37,10 @@ java -version
 ```
 ***Instalación de XNAT clonando el repositorio xnat-docker-compose***
 
-El tutorial oficial se encuentra en: https://wiki.xnat.org/documentation/getting-started-with-xnat/running-xnat-in-a-dockerized-container-with-configurable-dependencies 
+El tutorial oficial se encuentra en la [pagina oficial de XNAT](https://wiki.xnat.org/documentation/getting-started-with-xnat/running-xnat-in-a-dockerized-container-with-configurable-dependencies) 
 
 1. Abrir Docker Desktop. IMPORTANTE: LA APLICACIÓN DEBE PERMANECER ABIERTA DURANTE TODO EL TIEMPO QUE SE UTILICE XNAT
-2. Abrir la terminal Ubuntu y clonar el repositorio xnat-docker-compose alojado en https://github.com/NrgXnat/xnat-docker-compose :
+2. Abrir la terminal Ubuntu y clonar el repositorio xnat-docker-compose alojado en el [Git](https://github.com/NrgXnat/xnat-docker-compose)  :
 ```
 git clone https://github.com/NrgXnat/xnat-docker-compose 
 ```
