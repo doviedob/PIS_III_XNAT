@@ -68,6 +68,10 @@ INFO: Server startup in 208163 ms
 
 http://localhost/
 
+8. Se observará una pantalla como la siguiente:
+
+![Login page](https://raw.githubusercontent.com/doviedob/PIS_III_XNAT//master/Images/Login.png)
+
 Con lo anterior, podrá ingresar al sistema con las siguientes credenciales:
 - User: admin 
 - Password: admin 
