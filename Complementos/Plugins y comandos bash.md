@@ -1,4 +1,4 @@
-### Face masking pipeline (Quita la cara)
+## Face masking pipeline (Quita la cara)
 
 Las características anatómicas identificativas o sensibles en las imágenes de RM y TC utilizadas en la investigación plantean preocupaciones sobre la privacidad del paciente cuando se comparten dichos datos. El paquete de enmascaramiento facial implementa un algoritmo de modificación de la superficie anatómica personalizado para anonimizar las imágenes de la cabeza de RM que minimiza el impacto en las estadísticas de imagen resultantes.
 
